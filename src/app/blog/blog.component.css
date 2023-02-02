@@ -1,0 +1,29 @@
+.btn{
+    border-radius: 25px;
+  margin-left: 70px;
+}
+h3{
+    margin-top:90px;
+    display: inline-flex;
+    /* padding: 50px; */
+    padding-left:70px;
+}
+.card-text_1{
+  display: inline-block;
+  margin-left: 50px;
+}
+.card{
+ margin: 2rem;
+ border-radius: 1rem;
+
+}
+.card-group{
+  background-color: lightgray;
+  border-radius: 3%;
+}
+.card-body{
+  border-radius: 3%;
+}
+.card-img-top{
+  border-radius: 3%;
+}

@@ -1,0 +1,14 @@
+.text{
+    float: right;
+    padding-right: 15%;
+}
+span{
+    padding-left: 11%;
+}
+
+.icons{
+   text-align: left;
+}
+h6{
+    font-weight: bold;
+}
