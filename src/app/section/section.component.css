@@ -1,0 +1,14 @@
+/* .social_media{
+    padding: 20px;
+    margin: 10px;
+} */
+.fab{
+    padding: 5px;
+    margin: 6px;
+    outline-style:inset;
+border-color: lightgrey;
+    border-radius: 15px;
+}
+h6{
+    font-weight: bold;
+}
